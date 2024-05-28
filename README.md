@@ -10,7 +10,7 @@ A basic login page created using HTML, CSS, and JavaScript.
 
 ## Demo
 
-![Login Page Screenshot](screenshot.png)
+![Login Page Screenshot](Login-Page.png)
 
 ## Getting Started
 
@@ -25,4 +25,4 @@ You will need a web browser to open the HTML file.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/your-username/simple-login-page.git
+   git clone github
